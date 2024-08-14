@@ -1,0 +1,19 @@
+.bg-header
+{
+	background: #ce93d8;
+}
+
+.bg-custom
+{
+	background: #9c27b0;
+}
+
+.navbar .nav-item:hover .nav-link{
+	background: white;
+	color: #9c27b0;
+	border-radius: 15px;
+}
+
+.bg-table{
+	background: #e7a1f7;
+}
